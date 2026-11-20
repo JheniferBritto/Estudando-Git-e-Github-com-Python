@@ -1,1 +1,3 @@
-# Estudo Git, Github e Python 
+# ESTUDO GIT, GITHUB E PYTHON.
+
+Testando e aprendendo na pratica essas 3 ferramentas.
